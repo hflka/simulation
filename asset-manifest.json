@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hflka/simulation/static/css/main.18e11287.css",
+    "main.js": "/hflka/simulation/static/js/main.ae047e22.js",
+    "static/js/483.4434305f.chunk.js": "/hflka/simulation/static/js/483.4434305f.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/hflka/simulation/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/hflka/simulation/service-worker.js",
+    "index.html": "/hflka/simulation/index.html",
+    "main.18e11287.css.map": "/hflka/simulation/static/css/main.18e11287.css.map",
+    "main.ae047e22.js.map": "/hflka/simulation/static/js/main.ae047e22.js.map",
+    "483.4434305f.chunk.js.map": "/hflka/simulation/static/js/483.4434305f.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/hflka/simulation/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.ae047e22.js"
+  ]
+}
